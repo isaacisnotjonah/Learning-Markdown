@@ -41,6 +41,8 @@ This is an image, linked into the page. The image is loaded every time the md fi
 
 List
 =
+Numbered list
+-
 This is a numbered list:
 1. One
 2. Two
@@ -48,5 +50,17 @@ This is a numbered list:
 ```This is a numbered list:
 1. One
 2. Two
-3. Three```
+3. Three
+```
 
+Bulleted list
+-
+Here are some bullet points:
+
+* Just start each line with the following
+* A star (*)
+  * Put 2 spaces before the star to indent once.
+    * Put 4 spaces before the star to indent twice.
+        * Put 6 spaces before the star to indent once.
+And so on.  
+This also works for numbered lists.
