@@ -37,3 +37,30 @@ This is an image, linked into the page. The image is loaded every time the md fi
 ![Google Logo](https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 ```![Google Logo](https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)```
+
+
+List
+=
+Numbered list
+-
+This is a numbered list:
+1. One
+2. Two
+3. Three
+```This is a numbered list:
+1. One
+2. Two
+3. Three
+```
+
+Bulleted list
+-
+Here are some bullet points:
+
+* Just start each line with the following
+* A star (*) _Note: dashes (-) also work._
+  * Put 2 spaces before the star to indent once.
+    * Put 4 spaces before the star to indent twice.
+        * Put 6 spaces before the star to indent once.
+And so on.  
+This also works for numbered lists.
