@@ -29,3 +29,11 @@ Like that.
 To add a new line, you need to add two blank spaces at the end of a line.  
 Like that.
 ```
+
+Images
+=
+This is an image, linked into the page. The image is loaded every time the md file is loaded, so you need internet connection.
+
+![Google Logo](https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+
+```![Google Logo](https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)```
