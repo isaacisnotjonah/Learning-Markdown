@@ -58,7 +58,7 @@ Bulleted list
 Here are some bullet points:
 
 * Just start each line with the following
-* A star (*)
+* A star (*) _Note: dashes (-) also work._
   * Put 2 spaces before the star to indent once.
     * Put 4 spaces before the star to indent twice.
         * Put 6 spaces before the star to indent once.
